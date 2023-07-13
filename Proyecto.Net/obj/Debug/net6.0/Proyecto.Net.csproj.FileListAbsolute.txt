@@ -1,0 +1,15 @@
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\bin\Debug\net6.0\Proyecto.Net.exe
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\bin\Debug\net6.0\Proyecto.Net.deps.json
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\bin\Debug\net6.0\Proyecto.Net.runtimeconfig.json
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\bin\Debug\net6.0\Proyecto.Net.dll
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\bin\Debug\net6.0\Proyecto.Net.pdb
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\obj\Debug\net6.0\Proyecto.Net.csproj.AssemblyReference.cache
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\obj\Debug\net6.0\Proyecto.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\obj\Debug\net6.0\Proyecto.Net.AssemblyInfoInputs.cache
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\obj\Debug\net6.0\Proyecto.Net.AssemblyInfo.cs
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\obj\Debug\net6.0\Proyecto.Net.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\obj\Debug\net6.0\Proyecto.Net.dll
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\obj\Debug\net6.0\refint\Proyecto.Net.dll
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\obj\Debug\net6.0\Proyecto.Net.pdb
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\obj\Debug\net6.0\Proyecto.Net.genruntimeconfig.cache
+C:\Users\Juanc\OneDrive\Escritorio\.Net\Proyecto.Net\Proyecto.Net\obj\Debug\net6.0\ref\Proyecto.Net.dll
